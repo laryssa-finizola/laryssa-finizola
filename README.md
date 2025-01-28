@@ -1,12 +1,6 @@
 ## Olá! Me chamo Laryssa Finizola
 Sou Full Stack Developer e graduanda em Ciência da Computação pela UEPB. Fique à vontade para explorar meus projetos e conhecer mais sobre meu trabalho!
 
-##
-
-<div>
-  <a href="https://beacons.ai/laryssa-finizola">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laryssa-finizola&layout=compact&langs_count=16&theme=midnight-purple"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
