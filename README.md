@@ -11,6 +11,8 @@ Sou Full Stack Developer e graduanda em Ciência da Computação pela UEPB. Fiqu
   <img align="center" alt="Java" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </div>
 
+<img align="right" alt="Java" height="300" width="300" src= "https://github.com/user-attachments/assets/3392c06b-37b5-4212-bff7-30a1f4ef5c7f" />
+
 ##
 
 <div>
