@@ -20,3 +20,13 @@ Sou Full Stack Developer e graduanda em Ciência da Computação pela UEPB. Fiqu
   <a href = "mailto:laryssafinizoladev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laryssafinizola" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+<p>  
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      style = "padding-right: 10px"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=laryssa-finizola&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
