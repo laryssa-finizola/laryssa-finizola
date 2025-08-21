@@ -1,5 +1,5 @@
 ## Olá! Me chamo Laryssa Finizola
-Sou Full Stack Developer e graduanda em Ciência da Computação pela UEPB. Fique à vontade para explorar meus projetos e conhecer mais sobre meu trabalho!
+Fique à vontade para explorar meus projetos e conhecer mais sobre meu trabalho!
 
 
 <div style="display: inline_block"><br>
