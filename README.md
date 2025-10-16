@@ -13,7 +13,9 @@ Fique à vontade para explorar meus projetos e conhecer mais sobre meu trabalho!
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<img align="right" alt="Java" height="300" width="300" src= "https://github.com/user-attachments/assets/3392c06b-37b5-4212-bff7-30a1f4ef5c7f" />
+
+<img  align="right" width="369" height="432" alt="icone" src="https://github.com/user-attachments/assets/b9868082-843d-4df4-bfc1-6a9516ebae60" />
+
 
 ##
 
