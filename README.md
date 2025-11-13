@@ -15,7 +15,6 @@ Fique à vontade para explorar meus projetos e conhecer mais sobre meu trabalho!
 -->
 
 
-<img  align="right" width="369" height="432" alt="icone" src="https://github.com/user-attachments/assets/b9868082-843d-4df4-bfc1-6a9516ebae60" />
 
 
 ##
