@@ -29,23 +29,6 @@ Atuo com desenvolvimento web de ponta a ponta, desde a modelagem de dados e cons
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🚀 Projetos em destaque
-
-| Projeto | Sobre | Acesso |
-| --- | --- | --- |
-| **Loop 3D** | Experiência web interativa com foco em elementos 3D e identidade visual. | [Ver projeto](https://loop-3d-studio.vercel.app/) |
-| **Heloire** | Landing page com foco em apresentação visual, responsividade e experiência do usuário. | [Ver projeto](https://heloire.vercel.app/) |
-| **Margem** | Plataforma literária para descobrir livros, organizar leituras e conectar leitores. | Em desenvolvimento |
-| **Alinhora** | Aplicação de agendamentos com gestão de profissionais, serviços e horários. | Em desenvolvimento |
-
-> Alguns projetos estão em desenvolvimento ou possuem código privado. Os links públicos serão adicionados conforme as versões estiverem disponíveis.
-
-## 💡 O que valorizo no desenvolvimento
-
-- **Boas decisões de arquitetura:** responsabilidades claras e código fácil de evoluir.
-- **Experiência do usuário:** interfaces intuitivas, acessíveis e responsivas.
-- **Qualidade:** testes, documentação e atenção à manutenção.
-- **Aprendizado contínuo:** aprofundamento em backend, bancos de dados e Engenharia de Software.
 
 ## 🌐 Vamos nos conectar?
 
